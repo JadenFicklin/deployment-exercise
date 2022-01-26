@@ -129,6 +129,12 @@ body {
   background-image: url("./pictures/iririki.jpg");
 }
 
+.p-one:hover,
+.p-two:hover,
+.p-three:hover {
+  opacity: 50%;
+}
+
 .highlights {
   font-size: 20px;
   width: 100vw;
