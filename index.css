@@ -39,7 +39,7 @@ body {
   left: -100px;
   width: 140px;
   height: 80px;
-  background-image: url("./pictures/Flag_of_Vanuatu.png");
+  background-image: url("/pictures/Flag_of_Vanuatu.png");
   background-size: cover;
   background-position: center;
   background-repeat: none;
@@ -62,7 +62,7 @@ body {
 .canoo {
   width: 100vw;
   height: 700px;
-  background-image: url("./pictures/canoo.jpg");
+  background-image: url("/pictures/canoo.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: none;
@@ -120,7 +120,7 @@ body {
   background-repeat: none;
 }
 .p-one {
-  background-image: url("./pictures/P1000434.JPG");
+  background-image: url("/pictures/P1000434.JPG");
 }
 .p-two {
   background-image: url("./pictures/blue\ cave.jpg");
