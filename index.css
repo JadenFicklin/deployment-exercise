@@ -123,10 +123,10 @@ body {
   background-image: url("/pictures/P1000434.JPG");
 }
 .p-two {
-  background-image: url("./pictures/blue\ cave.jpg");
+  background-image: url("/pictures/blue\ cave.jpg");
 }
 .p-three {
-  background-image: url("./pictures/iririki.jpg");
+  background-image: url("/pictures/iririki.jpg");
 }
 
 .p-one:hover,
@@ -166,13 +166,13 @@ body {
   background-repeat: none;
 }
 .h-one {
-  background-image: url("./pictures/DSC00560.JPG");
+  background-image: url("/pictures/DSC00560.JPG");
 }
 .h-two {
-  background-image: url("./pictures/DSC00082.JPG");
+  background-image: url("/pictures/DSC00082.JPG");
 }
 .h-three {
-  background-image: url("./pictures/DSC00366.JPG");
+  background-image: url("/pictures/DSC00366.JPG");
 }
 
 .highlights-outer-two {
@@ -185,11 +185,11 @@ body {
 }
 
 .h-four {
-  background-image: url("./pictures/DSC01906.JPG");
+  background-image: url("/pictures/DSC01906.JPG");
 }
 .h-five {
-  background-image: url("./pictures/DSC00954\ \(2\).JPG");
+  background-image: url("/pictures/DSC00954\ \(2\).JPG");
 }
 .h-six {
-  background-image: url("./pictures/DSC00291\ -\ Copy.JPG");
+  background-image: url("/pictures/DSC00291\ -\ Copy.JPG");
 }
