@@ -11,7 +11,7 @@ app.get("/", (req, res) => {
 
 app.use(express.json());
 app.use("/js", express.static(path.join(__dirname, "public/main.js")));
-app.use("/styles", express.static(path.join(__dirname, "/index.css")));
+app.use("/styles", express.static(path.join(__dirname, "../index.css")));
 app.use(express.static(path.join(__dirname, "/pictures")));
 
 app.listen(port, () => {
